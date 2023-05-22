@@ -1,0 +1,34 @@
+{
+  "student": [
+    {
+      "groupId": "C",
+      "id": "a1",
+      "name": "Akshay PV",
+      "class": "+1",
+      "email": "akshay555@gamil.com",
+      "mobile": "9965599965"
+    },
+    {
+      "groupId": "A",
+      "id": "a2",
+      "name": "Anandhu ",
+      "class": "+2",
+      "email": "anandhu@11gmail.com",
+      "mobile": "9876543210"
+    }
+  ],
+  "groups": [
+    {
+      "id": "A",
+      "name": "science"
+    },
+    {
+      "id": "B",
+      "name": "humanities"
+    },
+    {
+      "id": "C",
+      "name": "commerce"
+    }
+  ]
+}
